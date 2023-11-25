@@ -1,4 +1,4 @@
-# hangman_german
+# Hangman german ver.
 Hangman game programmed in python (german version)
 
 Written in VSC
